@@ -130,6 +130,72 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <section className="home-wrapper-3 py-5">
+        <div className="container-xxl">
+          <div className="row">
+            <div className="col-12">
+              <div className="categories d-flex flex-wrap justify-content-between align-items-center">
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Computer & Laptop</h6>
+                    <p className="mb-0">8 Items</p>
+                  </div>
+                  <img src="images/laptop.jpg" alt="laptop" />
+                </div>
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Cameras & Videos</h6>
+                    <p className="mb-0">10 Items</p>
+                  </div>
+                  <img src="images/camera.jpg" alt="camera" />
+                </div>
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Smart Television</h6>
+                    <p className="mb-0">12 Items</p>
+                  </div>
+                  <img src="images/tv.jpg" alt="tv" />
+                </div>
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Smartwatches</h6>
+                    <p className="mb-0">13 Items</p>
+                  </div>
+                  <img src="images/smartwatches.jpg" alt="smartwatches" />
+                </div>
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Computer & Laptop</h6>
+                    <p className="mb-0">8 Items</p>
+                  </div>
+                  <img src="images/laptop.jpg" alt="laptop" />
+                </div>
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Cameras & Videos</h6>
+                    <p className="mb-0">10 Items</p>
+                  </div>
+                  <img src="images/camera.jpg" alt="camera" />
+                </div>
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Smart Television</h6>
+                    <p className="mb-0">12 Items</p>
+                  </div>
+                  <img src="images/tv.jpg" alt="tv" />
+                </div>
+                <div className="d-flex align-items-center">
+                  <div>
+                    <h6>Smartwatches</h6>
+                    <p className="mb-0">13 Items</p>
+                  </div>
+                  <img src="images/smartwatches.jpg" alt="smartwatches" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </>
   );
 };
