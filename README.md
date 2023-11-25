@@ -44,3 +44,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+// Một số thư viện cần tải
+react-icons
+react-router-dom
+
+// Một số extension cần tải
+Reactjs code snippets
+Simple React Snippets
+ES7 React/Redux/GraphQL/React-Native snippets
+
+// Một số link sử dụng làm giao diện css
+Bootstrap: V5.02
