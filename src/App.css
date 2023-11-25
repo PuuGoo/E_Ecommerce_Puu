@@ -80,3 +80,25 @@ a {
   color: var(--color-febd69) !important;
 }
 /* Các thành phần Header Kết Thúc Ở Đây*/
+
+
+
+
+
+
+
+/* Các thành phần Footer */
+
+footer {
+  background-color: var(--color-232f3e);
+}
+footer:not(:first-child) {
+  border-top: 1px solid var(--color-3b4149);
+}
+footer .input-group-text {
+  background-color: var(--color-232f3e);
+  color: white;
+  padding: 8px 17px;
+}
+
+/* Các thành phần Footer Kết Thúc Ở Đây*/
