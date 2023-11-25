@@ -48,6 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 // Một số thư viện cần tải
 react-icons
 react-router-dom
+react-fast-marquee (Slide tu dong)
 
 // Một số extension cần tải
 Reactjs code snippets
