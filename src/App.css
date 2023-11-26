@@ -507,20 +507,23 @@ footer .input-group-text {
   background-color: white;
   border-radius: 10px;
 }
-.compare-product-card .cross {
+.compare-product-card .cross,
+.wishlist-card-image .cross {
   top: 15px;
   right: 15px;
   width: 20px;
   padding: 3px;
   cursor: pointer;
 }
-.compare-product-details h5.title {
+.compare-product-details h5.title,
+.wishlist-card h5.title {
   font-size: 15px;
   line-height: 22px;
   font-weight: 500;
   color: var(--color-1c1c1b);
 }
-.compare-product-details h6.price {
+.compare-product-details h6.price,
+.wishlist-card h6.price {
   font-size: 15px;
   line-height: 22px;
   font-weight: 400;
@@ -533,3 +536,7 @@ footer .input-group-text {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 /* Trang So Sánh Sản Phẩm Kết Thúc */
+
+/* Trang Sản Phẩm Yêu Thích */
+
+/* Trang Sản Phẩm Yêu Thích Kết Thúc */
