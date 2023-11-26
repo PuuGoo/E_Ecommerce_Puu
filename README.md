@@ -50,6 +50,7 @@ react-icons
 react-router-dom
 react-fast-marquee (Slide tu dong)
 react-rating-stars-component
+React Helmet
 
 // Một số extension cần tải
 Reactjs code snippets
