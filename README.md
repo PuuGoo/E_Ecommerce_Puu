@@ -49,6 +49,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 react-icons
 react-router-dom
 react-fast-marquee (Slide tu dong)
+react-rating-stars-component
 
 // Một số extension cần tải
 Reactjs code snippets
